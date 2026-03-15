@@ -2,4 +2,10 @@
 
 Выбранный датасет: Safety Helmet Detection
 
-Общая информация: Название Safety Helmet Detection. Источник: Kaggle - Safety Helmet Detection (https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection?resource=download)
+Общая информация: Название Safety Helmet Detection. Источник: Kaggle - Safety Helmet Detection (https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection?resource=download). Автор: Andrew Maranhão (публикатор под именем Larxel). Дата публикации: 11 августа 2020 года (на момент ответа обновлено 6 лет назад). Лицензия: Public Domain (общественное доятояние).
+
+
+Описание содержимого: тип задачи - обнаружение головных уборов (jbject detection), аннотации - bounding boxes (ограничивающие рамки), количество изображений - 5.000. Классы: Helmet - строительная каска, Person - человек, Head - голова человека. Формат разметки: PASCAL VOC.
+
+
+Архив датасета весит около 1.32 гб, поэтому указана только ссылка. Сам датасет нельзя прикрепить из-за размера
