@@ -5,4 +5,6 @@
 Выбранный датасет: Case Western Reserve University (CWRU) Bearing Dats Center
 
 
-Общая информация: название - Case Western Reserve University (CWRU) Bearing Dats Center (https://engineering.case.edu/bearingdatacenter/download-data-file)
+Общая информация: название - Case Western Reserve University (CWRU) Bearing Dats Center (https://engineering.case.edu/bearingdatacenter/download-data-file). Источник - официальный сайт университета. Авторы -  исследовательская группа CWRU под руководством профессора Kenneth A.Loparo. Дата публикации - данные собирались в конце 1990-х - начле 2000-х годов. Лицензия: данные находятся в открытом доступе для академических и исследовательских целей.
+
+
