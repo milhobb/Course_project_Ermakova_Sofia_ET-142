@@ -5,4 +5,6 @@
 Выбранный датасет: SQuAD2.0 (Stanford Question Answering Dataset)
 
 
-Общая информация: название - SQuAD2.0 (https://rajpurkar.github.io/SQuAD-explorer/)
+Общая информация: название - SQuAD2.0 (https://rajpurkar.github.io/SQuAD-explorer/). Источник - официальный сайт проекта. Авторы - Стэнфордский университет (Pranav Rajpurkar, Robin Jia). Дата публикации - 2016 год (2.0 версия 2018 год).
+
+
