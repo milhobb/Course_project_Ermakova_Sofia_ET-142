@@ -1,5 +1,7 @@
 Выбранный кейс №88: Классификация регионов по типу возрастной структуры населения (Классификация стран/регионов на основе возрастного состава населения для выявления демографических типов)
 
+Ссылка на ноутбук с исходными кодами: https://colab.research.google.com/drive/1zFnvYYNbHLofgIMzOcAS8o54zUnDqzYq#scrollTo=GGjlI0NW_OJG
+
 Датасет: World Population by Age Group (https://www.kaggle.com/datasets/alizahidraja/world-population-by-age-group-2020)
 
 Дата доступа: 30 мая 2026 года
