@@ -1,17 +1,16 @@
-Выбранный кейс: №20 Обнаружение головных уборов (ООО ТРИДИВИ)
-
-Выбранный датасет: Safety Helmet Detection
-
-Общая информация: Название Safety Helmet Detection. Источник: Kaggle - Safety Helmet Detection (https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection?resource=download).
-
-Автор: Andrew Maranhão (публикатор под именем Larxel).
-
-Дата публикации: 11 августа 2020 года (на момент ответа обновлено 6 лет назад).
-
-Лицензия: Public Domain (общественное доятояние).
+Выбранный кейс: №20 Обнаружение строительных касок 
 
 
-Описание содержимого: тип задачи - обнаружение головных уборов (jbject detection), аннотации - bounding boxes (ограничивающие рамки), количество изображений - 5.000. Классы: Helmet - строительная каска, Person - человек, Head - голова человека. Формат разметки: PASCAL VOC.
+Датасет: Hard Hat Workers v3 (https://universe.roboflow.com/joseph-nelson/hard-hat-workers/dataset/3)
 
 
-Архив датасета весит около 1.32 гб, поэтому указана только ссылка. Сам датасет нельзя прикрепить из-за размера
+Дата публикации: 30 декабря 2020 года
+
+
+Авторы/владельцы: Northeastern University – China
+
+
+Лицензия: Public Domain (CC0 1.0 Universal)
+
+
+Описание содержимого: тип задачи - детекция объектов (bounding box для объекта), аннотации - bounding boxes (координаты), количество изображений - 17573. Классы: helmet - строительная каска, person - человек, head - голова человека. Формат разметки: YOLOv5.
