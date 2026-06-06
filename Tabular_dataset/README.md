@@ -7,9 +7,6 @@
 Датасет: World Population by Age Group (https://www.kaggle.com/datasets/alizahidraja/world-population-by-age-group-2020)
 
 
-Дата доступа: 30 мая 2026 года
-
-
 Авторы/владельцы: Ali Zahid Raja – пользователь Kaggle, создавший датасет для целей прогнозирования распространения COVID-19.
 
 
